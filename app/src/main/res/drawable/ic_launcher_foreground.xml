@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="50dp"
+        android:height="50dp"
+        android:insetLeft="29dp"
+        android:insetRight="29dp"
+        android:insetTop="29dp"
+        android:insetBottom="29dp"
+        android:drawable="@drawable/ic_app_logo"
+        android:gravity="center" />
+</layer-list>
